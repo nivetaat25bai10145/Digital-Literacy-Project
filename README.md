@@ -13,6 +13,7 @@ Developed profiles on GitHub, LinkedIn, and Stack Overflow to build a profession
 
 ### Task 3: Platforms
 Explored HackerRank for coding and created a Google Form quiz to collect and analyze responses
+Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeDWQWLoy5x20oNp4c4ILzhWwaEFLTENeY0gINvjJF0a4atkA/viewform?usp=header
 
 ### Task 4: Communication
 Learned professional email writing and digital communication etiquette
