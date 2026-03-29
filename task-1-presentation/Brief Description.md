@@ -1,5 +1,5 @@
 ## Brief Description
-The infographic is about a Digital Literacy Awareness Project. This Digital Literacy Awareness Project says that digital literacy is about being safe when you use technology and the internet. You have to be smart and responsible too.
-It gives us some tips to be safe. We should use passwords. We should not click on links that look suspicious. We should keep our information private.
-The Digital Literacy Awareness Project also tells us about some tools. These tools are Google Docs, Canva, Grammarly and GitHub.
-The Digital Literacy Awareness Project talks about having an online presence. This means using your name online. You should keep your profile clean. You should have an online identity. So it is all about literacy and being good at using the internet and technology. The Digital Literacy Awareness Project is really, about literacy.
+When I look at the infographic I see some things to keep in mind for safety. Digital literacy is about using passwords and staying away from suspicious links and keeping my personal information safe. This is what digital literacy does for me.
+The infographic also shows me some tools like Google Docs, Canva, Grammarly and GitHub. These tools are great for learning things and working on the internet. Digital literacy is what helps me use these tools to learn and work.
+The infographic reminds me to be careful with my presence. Digital literacy is important for using my name and keeping my profiles clean and making sure I have a good digital identity. Digital literacy helps me do all these things and more.
+Overall the infographic gives me an idea of how to use the internet in a way and that is all, about digital literacy. Digital literacy is what I need to use the internet.
