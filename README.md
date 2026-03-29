@@ -1,5 +1,11 @@
 # Digital-Literacy-Project
 
+## Name
+NIVETAA T
+
+## Registration Number
+25BAI10145
+
 ## Project Overview
 This project is based on the role of a Student Digital Ambassador. It focuses on promoting awareness about digital literacy, including online safety, professional digital presence, communication etiquette, and cybercrime awareness.
 
